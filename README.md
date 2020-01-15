@@ -1,6 +1,6 @@
 # RobotFramework-Python3-SeleniumLibrary-WebTestSuite
 
-![alt text](https://raw.githubusercontent.com/ozgurkayaist/RobotFramework-Python3-SeleniumLibrary-WebTestSuite/master/banner.png)
+![alt text](https://raw.githubusercontent.com/ozgurkayaist/RobotFramework-Python3-SeleniumLibrary-WebTestSuite/master/images/banner.png)
 
 Tested on:
 ------------------
@@ -33,6 +33,10 @@ robot tests\HepsiburadaTest.robot
 robot --variable BROWSER:Chrome tests\HepsiburadaTest.robot
 
 robot --variable BROWSER:Firefox tests\HepsiburadaTest.robot
+
+![alt text](https://raw.githubusercontent.com/ozgurkayaist/RobotFramework-Python3-SeleniumLibrary-WebTestSuite/master/images/cmd.png)
+
+![alt text](https://raw.githubusercontent.com/ozgurkayaist/RobotFramework-Python3-SeleniumLibrary-WebTestSuite/master/images/report.png)
 
 IntelliJ settings:
 ----------------------
