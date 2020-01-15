@@ -26,6 +26,10 @@ webdrivermanager firefox chrome --linkpath /usr/local/bin
 
 pip install -r requirements.txt
 
+Behaviour Driven Development (BDD) in Gherkin 
+-------------------------------------------
+![alt text](https://raw.githubusercontent.com/ozgurkayaist/RobotFramework-Python3-SeleniumLibrary-WebTestSuite/master/images/bdd.png)
+
 Running Tests Commands:
 ----------------------
 robot tests\HepsiburadaTest.robot
