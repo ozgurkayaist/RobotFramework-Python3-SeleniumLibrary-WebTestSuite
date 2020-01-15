@@ -1,5 +1,6 @@
 # RobotFramework-Python3-SeleniumLibrary-WebTestSuite
 
+![alt text](https://raw.githubusercontent.com/ozgurkayaist/RobotFramework-Python3-SeleniumLibrary-WebTestSuite/master/banner.png)
 
 Tested on:
 ------------------
