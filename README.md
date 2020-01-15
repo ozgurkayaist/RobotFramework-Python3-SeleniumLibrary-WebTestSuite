@@ -12,7 +12,7 @@ SeleniumLibrary 4.1.0
 
 Required installations:
 --------------------
-Python 3
+Python 3  -> https://www.python.org/downloads/
 
 pip install robotframework
 
@@ -59,5 +59,8 @@ C:\Users\YOUR_USER_NAME\AppData\Local\salabs_\WebDriverManager\gecko\v0.26.0\gec
 C:\Users\YOUR_USER_NAME\AppData\Local\salabs_\WebDriverManager\chrome\79.0.3945.36\chromedriver_win32\
 
 
+Extra İnformation/Libraries/Updates/Documentations/Tools:
+-------------------------------------------------------
 
+https://robotframework.org/
 
