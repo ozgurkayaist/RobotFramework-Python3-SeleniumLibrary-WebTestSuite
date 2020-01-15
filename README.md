@@ -33,3 +33,31 @@ robot tests\HepsiburadaTest.robot
 robot --variable BROWSER:Chrome tests\HepsiburadaTest.robot
 
 robot --variable BROWSER:Firefox tests\HepsiburadaTest.robot
+
+IntelliJ settings:
+----------------------
+
+Open  (File-> project Structure -> Project Settings -> Project)
+
+Select (Project SDK-> New -> Python SDK)
+
+Select (Add Python Interpreter->System Interpreter-> OK/Apply)
+
+OS System Environment Variables (for Windows):
+-------------------------------
+
+Add the following lines to your PATH env. variable. You need to edit the username and version fields. Otherwise you should get the following errors.
+
+  WebDriverException: Message: 'geckodriver' executable needs to be in PATH.
+  
+  WebDriverException: Message: 'chromedriver' executable needs to be in PATH.
+
+
+C:\Users\YOUR_USER_NAME\AppData\Local\Programs\Python\Python38
+C:\Users\YOUR_USER_NAME\AppData\Local\Programs\Python\Python38\Scripts
+C:\Users\YOUR_USER_NAME\AppData\Local\salabs_\WebDriverManager\gecko\v0.26.0\geckodriver-v0.26.0-win64\
+C:\Users\YOUR_USER_NAME\AppData\Local\salabs_\WebDriverManager\chrome\79.0.3945.36\chromedriver_win32\
+
+
+
+
